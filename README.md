@@ -1,5 +1,5 @@
 # CDP-HRTF
-Code release for: CDP-HRTF
+Code release for: CDP-HRTF (Core Code comming soon)
 
 
 ### Abstract
